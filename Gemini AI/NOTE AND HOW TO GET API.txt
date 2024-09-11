@@ -1,0 +1,11 @@
+Model: gemini-pro
+
+Please dont use it by our name this is created by shaheer ahmed raza so give him credit!
+install packages from requirments.txt
+Thank You!
+
+HELP:
+	how to get api
+       You can get API from https://www.aistudio.google.com
+
+
